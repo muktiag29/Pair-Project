@@ -1,0 +1,30 @@
+{
+  "name": "Pair-Project",
+  "version": "1.0.0",
+  "description": "Pair-Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "Node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muktiag29/Pair-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muktiag29/Pair-Project/issues"
+  },
+  "homepage": "https://github.com/muktiag29/Pair-Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
